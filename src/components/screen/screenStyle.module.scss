@@ -12,3 +12,13 @@
 .text {
   margin-right: 5%;
 }
+
+::-moz-selection {
+  color: lawngreen;
+  background: #211F1D;
+}
+
+::selection {
+  color: lawngreen;
+  background: #211F1D;
+}

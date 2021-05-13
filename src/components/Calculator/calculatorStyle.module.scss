@@ -1,10 +1,10 @@
 .container {
   width:300px;
   height: 380px;
-  border: 1px solid lightgray;
   margin: 50px auto auto auto;
   border-radius: 10px;
   overflow: hidden;
+  box-shadow: 25px 35px 67px -18px #211F1D;
   & .buttonsContainer {
     height: 70%;
     display: grid;
